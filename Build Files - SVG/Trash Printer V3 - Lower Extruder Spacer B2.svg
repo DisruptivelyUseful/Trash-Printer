@@ -1,0 +1,16 @@
+<!-- ARC is A xrad yrad xrotation-degrees largearc sweep end_x end_y -->
+
+<svg enable-background='new 0.0000 0.0000 3.2283 3.2283' height='3.2283in' width='3.2283in' version='1.1' viewBox='0.0000 0.0000 3.2283 3.2283' x='0.0000in' y='0.0000in' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:shaper='http://www.shapertools.com/namespaces/shaper' shaper:sketchupaddin='2.2.1' >
+<desc >Shaper cut profile from Sketchup model Trash Printer Final Hackaday Model
+</desc>
+<title >Trash Printer Final Hackaday Model cut profile
+</title>
+<path d='M 3.2145 1.4035 A 1.6142 1.6142 352.5000 0 0 0.0138 1.8249 A 1.6142 1.6142 352.5000 0 0 3.2145 1.4035Z ' transform='matrix(1,0,0,-1,0.0,3.2283)' shaper:pathType='exterior' shaper:cutDepth='0.2500' fill='rgb(0,0,0)' />
+<path d='M 1.2392 0.9647 A 0.7500 0.7500 240.0000 0 0 1.9892 2.2637 A 0.7500 0.7500 240.0000 0 0 1.2392 0.9647Z ' transform='matrix(1,0,0,-1,0.0,3.2283)' shaper:pathType='interior' shaper:cutDepth='0.2500' fill='rgb(255,255,255)' stroke='rgb(0,0,0)' stroke-width='2' vector-effect='non-scaling-stroke' />
+<path d='M 2.7834 1.7385 A 0.1250 0.1250 95.0000 0 1 2.8052 1.4896 A 0.1250 0.1250 95.0000 0 1 2.7834 1.7385Z ' transform='matrix(1,0,0,-1,0.0,3.2283)' shaper:pathType='interior' shaper:cutDepth='0.2500' fill='rgb(255,255,255)' stroke='rgb(0,0,0)' stroke-width='2' vector-effect='non-scaling-stroke' />
+<path d='M 1.4892 0.2392 A 0.1250 0.1250 180.0000 0 1 1.7392 0.2392 A 0.1250 0.1250 180.0000 0 1 1.4892 0.2392Z ' transform='matrix(1,0,0,-1,0.0,3.2283)' shaper:pathType='interior' shaper:cutDepth='0.2500' fill='rgb(255,255,255)' stroke='rgb(0,0,0)' stroke-width='2' vector-effect='non-scaling-stroke' />
+<path d='M 1.5150 3.0653 A 0.1250 0.1250 142.5000 0 1 1.7133 2.9131 A 0.1250 0.1250 142.5000 0 1 1.5150 3.0653Z ' transform='matrix(1,0,0,-1,0.0,3.2283)' shaper:pathType='interior' shaper:cutDepth='0.2500' fill='rgb(255,255,255)' stroke='rgb(0,0,0)' stroke-width='2' vector-effect='non-scaling-stroke' />
+<path d='M 1.4898 0.5490 A 0.1250 0.1250 175.0000 0 1 1.7387 0.5272 A 0.1250 0.1250 175.0000 0 1 1.4898 0.5490Z ' transform='matrix(1,0,0,-1,0.0,3.2283)' shaper:pathType='interior' shaper:cutDepth='0.2500' fill='rgb(255,255,255)' stroke='rgb(0,0,0)' stroke-width='2' vector-effect='non-scaling-stroke' />
+<path d='M 1.7386 2.6793 A 0.1250 0.1250 355.0000 0 1 1.4896 2.7011 A 0.1250 0.1250 355.0000 0 1 1.7386 2.6793Z ' transform='matrix(1,0,0,-1,0.0,3.2283)' shaper:pathType='interior' shaper:cutDepth='0.2500' fill='rgb(255,255,255)' stroke='rgb(0,0,0)' stroke-width='2' vector-effect='non-scaling-stroke' />
+<path d='M 0.4449 1.4898 A 0.1250 0.1250 275.0000 0 1 0.4232 1.7387 A 0.1250 0.1250 275.0000 0 1 0.4449 1.4898Z ' transform='matrix(1,0,0,-1,0.0,3.2283)' shaper:pathType='interior' shaper:cutDepth='0.2500' fill='rgb(255,255,255)' stroke='rgb(0,0,0)' stroke-width='2' vector-effect='non-scaling-stroke' />
+</svg>

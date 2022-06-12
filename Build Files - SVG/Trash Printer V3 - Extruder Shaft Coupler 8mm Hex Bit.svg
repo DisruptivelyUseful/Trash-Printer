@@ -1,0 +1,12 @@
+<!-- ARC is A xrad yrad xrotation-degrees largearc sweep end_x end_y -->
+
+<svg enable-background='new 0.0000 0.0000 1.5000 1.5000' height='1.5000in' width='1.5000in' version='1.1' viewBox='0.0000 0.0000 1.5000 1.5000' x='0.0000in' y='0.0000in' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:shaper='http://www.shapertools.com/namespaces/shaper' shaper:sketchupaddin='2.2.1' >
+<desc >Shaper cut profile from Sketchup model Trash Printer Final Hackaday Model
+</desc>
+<title >Trash Printer Final Hackaday Model cut profile
+</title>
+<path d='M 1.3450 0.2934 A 0.7500 0.7500 322.5000 0 0 0.1550 1.2066 A 0.7500 0.7500 322.5000 0 0 1.3450 0.2934Z ' transform='matrix(1,0,0,-1,0.0,1.5000)' shaper:pathType='exterior' shaper:cutDepth='0.2500' fill='rgb(0,0,0)' />
+<path d='M 0.8457 0.5843 L 0.6543 0.5843  L 0.5586 0.7500  L 0.6543 0.9157  L 0.8457 0.9157  L 0.9414 0.7500  L 0.8457 0.5843Z ' transform='matrix(1,0,0,-1,0.0,1.5000)' shaper:pathType='interior' shaper:cutDepth='0.2500' fill='rgb(255,255,255)' stroke='rgb(0,0,0)' stroke-width='2' vector-effect='non-scaling-stroke' />
+<path d='M 0.5329 0.2138 A 0.5787 0.5787 292.0428 0 1 0.9671 0.2138  A 0.8131 0.8131 207.6033 0 0 0.8150 0.4193  L 0.6850 0.4193  A 0.8131 0.8131 332.3967 0 0 0.5329 0.2138Z ' transform='matrix(1,0,0,-1,0.0,1.5000)' shaper:pathType='interior' shaper:cutDepth='0.2500' fill='rgb(255,255,255)' stroke='rgb(0,0,0)' stroke-width='2' vector-effect='non-scaling-stroke' />
+<path d='M 0.9671 1.2862 A 0.5787 0.5787 112.0428 0 1 0.5329 1.2862  A 0.8131 0.8131 27.6033 0 0 0.6850 1.0807  L 0.8150 1.0807  A 0.8131 0.8131 152.3967 0 0 0.9671 1.2862Z ' transform='matrix(1,0,0,-1,0.0,1.5000)' shaper:pathType='interior' shaper:cutDepth='0.2500' fill='rgb(255,255,255)' stroke='rgb(0,0,0)' stroke-width='2' vector-effect='non-scaling-stroke' />
+</svg>

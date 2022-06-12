@@ -1,0 +1,12 @@
+<!-- ARC is A xrad yrad xrotation-degrees largearc sweep end_x end_y -->
+
+<svg enable-background='new 0.0000 0.0000 3.2283 3.2120' height='3.2120in' width='3.2283in' version='1.1' viewBox='0.0000 0.0000 3.2283 3.2120' x='0.0000in' y='0.0000in' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:shaper='http://www.shapertools.com/namespaces/shaper' shaper:sketchupaddin='2.2.1' >
+<desc >Shaper cut profile from Sketchup model Trash Printer Final Hackaday Model
+</desc>
+<title >Trash Printer Final Hackaday Model cut profile
+</title>
+<path d='M 1.7392 3.2120 L 1.7392 3.1975  L 1.8642 2.9810  L 1.7392 2.7645  L 1.7084 2.7641  A 0.1250 0.1250 138.5590 0 0 1.6138 2.5570 A 0.1250 0.1250 138.5590 0 0 1.5205 2.7648  L 1.4892 2.7645  L 1.3642 2.9810  L 1.4892 3.1975  L 1.4892 3.2120  A 1.6142 1.6142 94.4506 0 1 1.4882 0.0001  L 1.4892 0.0145  L 1.3642 0.2310  L 1.4892 0.4475  L 1.5199 0.4478  A 0.1250 0.1250 318.5590 0 0 1.6146 0.6549 A 0.1250 0.1250 318.5590 0 0 1.7079 0.4472  L 1.7392 0.4475  L 1.8642 0.2310  L 1.7392 0.0145  L 1.7392 0.0000  A 1.6142 1.6142 274.4506 0 1 1.7392 3.2120Z ' transform='matrix(1,0,0,-1,0.0,3.2120)' shaper:pathType='exterior' shaper:cutDepth='0.2500' fill='rgb(0,0,0)' />
+<path d='M 1.6142 0.9385 A 0.6675 0.6675 270.0000 0 0 1.6142 2.2735 A 0.6675 0.6675 270.0000 0 0 1.6142 0.9385Z ' transform='matrix(1,0,0,-1,0.0,3.2120)' shaper:pathType='interior' shaper:cutDepth='0.2500' fill='rgb(255,255,255)' stroke='rgb(0,0,0)' stroke-width='2' vector-effect='non-scaling-stroke' />
+<path d='M 0.4449 1.4816 A 0.1250 0.1250 275.0000 0 1 0.4232 1.7305 A 0.1250 0.1250 275.0000 0 1 0.4449 1.4816Z ' transform='matrix(1,0,0,-1,0.0,3.2120)' shaper:pathType='interior' shaper:cutDepth='0.2500' fill='rgb(255,255,255)' stroke='rgb(0,0,0)' stroke-width='2' vector-effect='non-scaling-stroke' />
+<path d='M 2.7834 1.7303 A 0.1250 0.1250 95.0000 0 1 2.8052 1.4815 A 0.1250 0.1250 95.0000 0 1 2.7834 1.7303Z ' transform='matrix(1,0,0,-1,0.0,3.2120)' shaper:pathType='interior' shaper:cutDepth='0.2500' fill='rgb(255,255,255)' stroke='rgb(0,0,0)' stroke-width='2' vector-effect='non-scaling-stroke' />
+</svg>
